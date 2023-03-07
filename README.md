@@ -4,7 +4,7 @@ This repository contains the information for the teams participating in the [CLE
 
 The repository is organised as follows:
 
-Submissions: This folder is used to submit your runs into the task.\
+Submissions: This folder is used to contain information about the submissions.\
 Scores: This folder will contain the performance scores of the submitted runs.\
 Resources: This folder contains the resources needed for doing the submissions.
 
