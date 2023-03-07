@@ -4,9 +4,9 @@ This repository contains the information for the teams participating in the [CLE
 
 The repository is organised as follows:
 
-Submissions: This folder is used to contain information about the submissions.\
-Scores: This folder will contain the performance scores of the submitted runs.\
-Resources: This folder contains the resources needed for doing the submissions.
+[Submissions:](https://github.com/clef-longeval/IR-Participants/tree/main/Submissions) This folder is used to contain information about the submissions.\
+[Scores:](https://github.com/clef-longeval/IR-Participants/tree/main/Scores) This folder will contain the performance scores of the submitted runs.\
+[Resources:](https://github.com/clef-longeval/IR-Participants/tree/main/Resources) This folder contains the resources needed for doing the submissions.
 
 There are two sub-tasks organized in LongEval-Retrieval. Each team can participate in one or both subtasks.
 
