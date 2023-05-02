@@ -1,13 +1,22 @@
 System Name:
 Description (short description of the system):
+************
+System Details. Please provide as many details as possible here, so it is possible to reproduce your run.
+
 Ranking Methods (Which ranking approaches does the system use?):
+Data Used (Which data were used to train and fine-tune the system? Please be as concrete as possible and use the exact reference whenever possible):
+Software Used (Which software and tools did you use for training, tunning and running your system? Please be as concrete as possible, provide a reference to your code if possible, and provide the exact software version, whenever applicable):
+Pre-processing and Indexing (What pre-processing and indexing does the system use? Please be as concrete as possible and provide the details of the tools):
 System Combination / Fusion (Does the system combine different retrieval models? If so, how are they combined?):
-Data Used (Which data were used to train and fine-tune the system?):
 Multi-stage Retrieval (Is system single-stage or does it use reranking? If multi-stage, which rerankers are used?):
 Translations (Does the system use French documents or the translations? If translations, which ones?):
-Pre-processing and Indexing (What pre-processing and indexing does the system use?):
-The Cost (How efficient is the system in the pre-processing and interference steps?):
-----
+
+Resources (How much GPU, CPU, memory, ... did you use for pre-processing and interference steps? Did you use any commercial cloud services?):
+The Costs (How efficient is the system in the pre-processing and interference steps? How long did pre-processing and inference take?):
+
+************
+Yes/No Questions
+
 Did you use any statistical ranking model? (yes/no):
 Did you use any deep neural network model? (yes/no):
 Did you use a sparse neural model? (yes/no):
