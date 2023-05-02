@@ -12,7 +12,7 @@ Multi-stage Retrieval (Is system single-stage or does it use reranking? If multi
 Translations (Does the system use French documents or the translations? If translations, which ones?):
 
 Resources (How much GPU, CPU, memory, ... did you use for pre-processing and interference steps? Did you use any commercial cloud services?):
-The Costs (How efficient is the system in the pre-processing and interference steps? How long did pre-processing and inference take?):
+The Costs (How long did pre-processing and inference take?):
 
 ************
 Yes/No Questions
@@ -21,6 +21,7 @@ Did you use any statistical ranking model? (yes/no):
 Did you use any deep neural network model? (yes/no):
 Did you use a sparse neural model? (yes/no):
 Did you use a dense neural model? (yes/no):
+Did you use more than a single retrieval model? (yes/no): 
 Did you use French or English documents (French/English/both):
 Did you use provided English translations (yes/no):
 Did you use any manual intervention on the translations? (yes/no):
