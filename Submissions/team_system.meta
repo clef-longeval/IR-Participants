@@ -6,7 +6,7 @@ System Details. Please provide as many details as possible here, so it is possib
 Ranking Methods (Which ranking approaches does the system use?):
 Data Used (Which data were used to train and fine-tune the system? Please be as concrete as possible and use the exact reference whenever possible):
 Software Used (Which software and tools did you use for training, tunning and running your system? Please be as concrete as possible, provide a reference to your code if possible, and provide the exact software version, whenever applicable):
-Pre-processing and Indexing (What pre-processing and indexing does the system use? Please be as concrete as possible and provide the details of the tools):
+Pre-processing and Indexing (What pre-processing and indexing does the system use? Please be as concrete as possible and provide the details and the setup of the tools):
 System Combination / Fusion (Does the system combine different retrieval models? If so, how are they combined?):
 Multi-stage Retrieval (Is system single-stage or does it use reranking? If multi-stage, which rerankers are used?):
 Translations (Does the system use French documents or the translations? If translations, which ones?):
