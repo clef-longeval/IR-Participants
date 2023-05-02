@@ -11,7 +11,7 @@ System Combination / Fusion (Does the system combine different retrieval models?
 Multi-stage Retrieval (Is system single-stage or does it use reranking? If multi-stage, which rerankers are used?):
 Translations (Does the system use French documents or the translations? If translations, which ones?):
 
-Resources (How much GPU, CPU, memory, ... did you use for pre-processing and interference steps? Did you use any commercial cloud services?):
+Resources (How much GPU, CPU, memory, ... did you use for pre-processing and inference steps? Did you use any commercial cloud services?):
 The Costs (How long did pre-processing and inference take?):
 
 ************
