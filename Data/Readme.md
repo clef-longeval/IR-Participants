@@ -5,6 +5,6 @@ The files with the information about when each file in the collection was create
 
 Both updated and changed times are in the [UNIX timestamp](https://www.unixtimestamp.com/) format.
 
-- Train Collection (July 2022)
-- Test Collection Short-term Retrieval (July 2022)
-- Test Collection Long-term Retrieval (September 2022) 
+- [Train Collection (July 2022)](https://github.com/clef-longeval/IR-Participants/blob/552b5992cf6476338cbbf3ff73aee08329133a77/Data/doc-time-06-train.zip)
+- [Test Collection Short-term Retrieval (July 2022)](https://github.com/clef-longeval/IR-Participants/blob/552b5992cf6476338cbbf3ff73aee08329133a77/Data/doc-time-07-test-a-short.zip)
+- [Test Collection Long-term Retrieval (September 2022)](https://github.com/clef-longeval/IR-Participants/blob/552b5992cf6476338cbbf3ff73aee08329133a77/Data/doc-time-09-test-b-short.zip)
